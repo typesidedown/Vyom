@@ -45,6 +45,7 @@ The project uses a **dual-rotor tailsitter configuration** powered by **counter-
 
 * Designed using **SolidWorks** and **Autodesk Inventor**
 * Initial simulation performed in **Gazebo**
+<img width="623" height="349" alt="image" src="https://github.com/user-attachments/assets/4f571372-3c3e-4fb5-bdb6-28ea62fc973b" />
 
 ### Materials Used
 
@@ -66,7 +67,8 @@ The project uses a **dual-rotor tailsitter configuration** powered by **counter-
 
 Below is a reference image of a tailsitter VTOL similar to the design used in this project:
 
-*(Image shown on Page 1 of the document)*
+<img width="595" height="472" alt="image" src="https://github.com/user-attachments/assets/e7c9ac55-f3ae-40cc-a432-288df6c92d73" />
+
 
 ---
 
@@ -91,7 +93,9 @@ Below is a reference image of a tailsitter VTOL similar to the design used in th
 * Motor mounts
 * Structural elements
 
-*(Images shown on Page 2 of the document)*
+<img width="445" height="334" alt="image" src="https://github.com/user-attachments/assets/32e8a41b-bc1c-4f16-9928-c2e0fbe0ea26" />
+<img width="610" height="263" alt="image" src="https://github.com/user-attachments/assets/88b7edca-49a3-4756-9229-49830344c7eb" />
+
 
 ---
 
