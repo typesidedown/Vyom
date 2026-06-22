@@ -12,7 +12,7 @@ Unlike traditional airplanes that require runways or drones that suffer from lim
 * Transition into efficient forward flight
 * Operate in confined spaces
 
-The project uses a **dual-rotor tailsitter configuration** powered by **counter-rotating BLDC motors** and controlled using **PX4 firmware**.
+The project uses a **dual-rotor tailsitter configuration** powered by **counter-rotating BLDC motors** and controlled using **Ardupilot firmware**.
 
 ---
 
@@ -76,13 +76,12 @@ Below is a reference image of a tailsitter VTOL similar to the design used in th
 
 ✅ CAD Design Completed
 ✅ Electronics Design Completed
-✅ Wings 3D Printed
-⏳ Fuselage Printing Pending
-⏳ PX4 Firmware Tuning Pending
+✅ Full Assembly completed
+⏳ Firmware Tuning and flight testing pending
 
 ### Firmware
 
-* **Flight Stack:** PX4
+* **Flight Stack:** Pixhawk 2.4.8 
 * Final tuning will be performed after full assembly
 
 ---
